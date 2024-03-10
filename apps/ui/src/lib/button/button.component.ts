@@ -2,7 +2,7 @@ import { Component } from '@angular/core';
 import { CommonModule } from '@angular/common';
 
 @Component({
-  selector: 'ng-workspace-button',
+  selector: 'nx-lib-button',
   standalone: true,
   imports: [CommonModule],
   templateUrl: './button.component.html',

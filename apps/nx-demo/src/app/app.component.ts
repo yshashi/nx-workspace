@@ -1,4 +1,4 @@
-import { ButtonComponent, HeaderComponent } from '@ng-workspace/ui';
+import { ButtonComponent, HeaderComponent } from '@nx-workspace/ui';
 import { Component } from '@angular/core';
 import { RouterModule } from '@angular/router';
 import { NxWelcomeComponent } from './nx-welcome.component';
